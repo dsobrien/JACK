@@ -42,7 +42,7 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:Daron                <Daron> <O'Brien>
+  name:                <Daron> <O'Brien>
   email:               <dsobrien1@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <dshonobrien>
@@ -260,7 +260,7 @@ plugins:
 
 # Used for Twitter cards
 # twitter:
-#   username:            <shortname>
+#   username:            <dshonobrien>
 
 # Used for Facebook open graph
 # facebook:
@@ -270,10 +270,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                <Daron> <O'Brien>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/<dsobrien>
 
 
 # Other Plugins
