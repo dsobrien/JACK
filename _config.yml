@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Daron O'Brien
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Marketing Specialist & World Traveler".
+  Marketing Specialist & World Traveler
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,7 +42,7 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <Daron> <O'Brien>
-  email:               <mdsobrien1@gmail.com>
+  email:               <dsobrien1@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <DshonOBrien>
 
