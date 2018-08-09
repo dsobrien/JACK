@@ -5,8 +5,8 @@ basics:
   name: "Daron O'Brien"
   label: "Marketing Specialist"
   picture: "/assets/icons/icon.png"
-  email: ""
-  phone: "(912) 555-4321"
+  email: "dsobrien1@gmail.com"
+  phone: ""
   website: "https://daronobrien.me"
   summary: >
     Richard hails from Tulsa.
@@ -55,7 +55,7 @@ volunteer:
     highlights:
       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "University of Oklahoma"
+  - institution: "University of California, Santa Barbara"
     area: "Information Technology"
     studyType: "Bachelor"
     startDate: "2011-06-01"
