@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hydejack
+title: Resume
 slug: hydejack
 menu: true
 order: 1
