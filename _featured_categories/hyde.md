@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hyde
+title: My Work
 slug: hyde
 menu: true
 order: 2
