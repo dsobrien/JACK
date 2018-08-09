@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://daronobrien.me
+url:                   https://domain.tld
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,24 +12,24 @@ url:                   https://daronobrien.me
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl: daronobrien.me               ''
+baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Daron O'Brien
+title:                 Hydejack
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Marketing Specialist, Wolrd Traveler".
-  **Hydejack** In order to be successful, your focus has to be so intense, people think you're crazy
+  "Best Jekyll Theme by a Mile".
+  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "I am Daron O'brien".
+  "Best Jekyll Theme by a Mile".
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
@@ -42,10 +42,10 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Daron> <O'Brien>
-  email:               <dsobrien1@gmail.com>
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <dshonobrien>
+  # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
@@ -260,7 +260,7 @@ plugins:
 
 # Used for Twitter cards
 # twitter:
-#   username:            <dshonobrien>
+#   username:            <shortname>
 
 # Used for Facebook open graph
 # facebook:
@@ -270,10 +270,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <Daron> <O'Brien>
+#   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<dsobrien>
+#     - https://github.com/<username>
 
 
 # Other Plugins
