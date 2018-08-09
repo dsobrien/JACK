@@ -99,6 +99,22 @@ defaults:
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
+      order: 1
+   - scope:
+      path: projects.md
+    values:
+      menu: true
+      order: 2
+  - scope:
+      path: resume.md
+    values:
+      menu: true
+      order: 3
+  - scope:
+      path: about.md
+    values:
+      menu: true
+      order: 4
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -169,7 +185,7 @@ hydejack:
 
   # Set to `true` if you do not want to expose your resume and projects
   # in machine-readable formats.
-  no_structured_data:  false
+  no_structured_data:  true
 
   # You can set this to `true` if you don't want to set the `theme-color` meta tag,
   # This only affects the meta tag, not the color specified in the app manifest.
@@ -271,8 +287,8 @@ plugins:
 # social:
 #   name:                <Daron> <O'Brien>
 #   links:
-#     - https://twitter.com/<DshonOBrien>
-#     - https://github.com/<username>
+#     - https://twitter.com/DshonOBrien
+#     - https://github.com/dsobrien
 
 
 # Other Plugins
