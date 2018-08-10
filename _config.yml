@@ -99,22 +99,6 @@ defaults:
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
-      order: 1
-   - scope:
-      path: projects.md
-    values:
-      menu: true
-      order: 2
-  - scope:
-      path: resume.md
-    values:
-      menu: true
-      order: 3
-  - scope:
-      path: about.md
-    values:
-      menu: true
-      order: 4
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
