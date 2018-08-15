@@ -48,6 +48,7 @@
     "hy-img": "^1.0.0-hydejack.9",
     "hy-push-state": "^1.0.0-pre.22",
     "intersection-observer": "^0.5.0",
+    "json-to-markdown": "^1.0.4",
     "json2md": "^1.6.1",
     "rxjs": "^6.2.1",
     "smoothscroll-polyfill": "^0.4.3",
