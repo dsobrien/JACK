@@ -1,12 +1,4 @@
----
-# file: resume.md
-layout: resume
-title:  Resume
-description: >
-  A short description of the page for search engines (~150 characters long).
----
----
-{
+ {
   "basics": {
     "name": "Daron O'brien",
     "label": "Marketing Specialist",
@@ -22,16 +14,13 @@ description: >
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "DshonObrien",
-        "url": ""
-      }
-    ]
+    "profiles": [{
+      "network": "Twitter",
+      "username": "DshonObrien",
+      "url": ""
+    }]
   },
-  "work": [
-    {
+  "work": [{
       "company": "FFP Insurance Services",
       "position": "Marketing Specialist",
       "website": "https://ffpis.com.com",
@@ -60,45 +49,39 @@ description: >
     }
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "University of California, Santa Barbara",
-      "area": "Communication",
-      "studyType": "Bachelor",
-      "startDate": "2008-06",
-      "endDate": "2012-06",
-      "gpa": "",
-      "courses": []
-    }
-  ],
+  "education": [{
+    "institution": "University of California, Santa Barbara",
+    "area": "Communication",
+    "studyType": "Bachelor",
+    "startDate": "2008-06",
+    "endDate": "2012-06",
+    "gpa": "",
+    "courses": []
+  }],
   "awards": [],
   "publications": [],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "Google Ads",
-        "Javascript",
-        "SEO",
-        "Microsoft/Mac Office",
-        "CRM"
-      ]
-    }
-  ],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "Google Ads",
+      "Javascript",
+      "SEO",
+      "Microsoft/Mac Office",
+      "CRM"
+    ]
+  }],
   "languages": [],
-  "interests": [
-    {
-      "name": "",
-      "keywords": [
-        "Travel",
-        "Marketing",
-        "Digital Space",
-        "Digital Marketing",
-        "Social Media"
-      ]
-    }
-  ],
+  "interests": [{
+    "name": "",
+    "keywords": [
+      "Travel",
+      "Marketing",
+      "Digital Space",
+      "Digital Marketing",
+      "Social Media"
+    ]
+  }],
   "references": []
 }

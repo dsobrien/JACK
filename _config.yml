@@ -2,7 +2,7 @@
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
-# Set to https://<username>.github.io when hosting on GitHub Pages
+# Set to https://dsobrien.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
 url:                   https://daronobrien.me
 
@@ -308,3 +308,4 @@ compress_html:
 
 sass:
   style:               compressed
+  
